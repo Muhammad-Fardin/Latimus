@@ -21,6 +21,9 @@ export default function RootLayout({
   return (
     <ClerkProvider>
     <html lang="en">
+      <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3791857270508387" crossorigin="anonymous"></script>
+      </head>
     <CrispProvider />
       <body className={inter.className}>
         <ToasterProvider />
