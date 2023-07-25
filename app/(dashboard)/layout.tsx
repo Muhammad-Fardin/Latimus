@@ -2,6 +2,7 @@ import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
 import { checkSubscription } from "@/lib/subscription";
 import { getApiLimitCount } from "@/lib/api-limit";
+import Link from "next/link";
 
 const DashboardLayout = async ({
     children,
@@ -19,6 +20,7 @@ const DashboardLayout = async ({
         <main className="md:pl-72 pb-10">
           <Navbar />
           {children}
+          {/* <Link href="/sitemap.xml">sitemap</Link> */}
         </main>
       </div>
      );

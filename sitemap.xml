@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'
+	 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	 xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd'>
+<!-- Created with WriteMaps: An Online Sitemap Generator https://app.writemaps.com -->
+	<url>
+		<loc>https://latimus.vercel.app/</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://latimus.vercel.app/sign-up</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>latimus.vercel.app/dashboard</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>latimus.vercel.app/image</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>latimus,vercel.app/code</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>latimus.vercel.app/conversation</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>latimus.vercel.app/video</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>latimus.vercel.app/music</loc>
+		<lastmod>2023-07-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+</urlset>

@@ -5,6 +5,7 @@ import {ClerkProvider} from "@clerk/nextjs";
 import { ModalProvider } from '@/components/ModalProvider';
 import { ToasterProvider } from '@/components/ToastProvider';
 import { CrispProvider } from '@/components/CrispProvider';
+import Link from 'next/link';
 
 const inter = Inter({ subsets: ['latin'] })
 
